@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qualitypestcontrols.in/sitemap.xml
+Sitemap: https://qualitypestcontrolservices.in/sitemap.xml
